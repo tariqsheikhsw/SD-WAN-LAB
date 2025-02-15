@@ -87,27 +87,40 @@ csdwan deploy 20.15.1
 
 
 ```
-source <(kubectl completion bash) # setup autocomplete in bash into the current shell, bash-completion package should be installed first.
-echo "source <(kubectl completion bash)" >> ~/.bashrc # add autocomplete permanently to your bash shell.
+cd csdwan
+source ./sdwan.sh
+source venv/bin/activate
 ```
 
 
+```
+csdwan setup
+csdwan deploy 20.15.1
+```
+//parameters : /24 and 192.168.255.1 (for NAT)
+
+
+```
+csdwan add 2 edge 17.15.01a --lab "CSD-WAN-LAB-01"
+```
+
 CONFIGURATION FILES:
 
-🔗 Deployment 'alpha-xyz'
-🔗 Service 'alpha-svc'
-🔗 NetworkPolicy 'restrict-inbound'
-🔗 NetworkPolicy 'external-network-policy'
-🔗 AppArmor Profile 'custom-nginx'
+🔗 SDWAN Setup Script 'sdwan.sh'
 
+
+
+```
+csdwan add 2 edge 17.15.01a --lab "CSD-WAN-LAB-01"
+```
 
 # FINAL STATUS:
 
-    [✔️] PVC to PV binding
-    [✔️] Image Scanning using Aquasec Trivy
-    [✔️] Ingress and Egress Network Policy Implementation
-    [✔️] Secure Deployment using AppArmor Profile
-    [✔️] Expose Deployment with NodePort Type Service
+    [✔️] Add Manager, Validator , Configurator
+    [✔️] Add cEdges (c8000v)
+    [✔️] Add Alpine (End Hosts)
+    [✔️] Validate Traffic from Branch1 to Branch2 via MPLS Link
+    [✔️] Remove MPLS link and Validate Traffic from Branch1 to Branch2 via Internet Link
 
 
 
