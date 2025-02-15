@@ -1,0 +1,7 @@
+export CML_IP='192.168.145.129'
+export CML_USER='admin'
+export CML_PASSWORD='Cisco@786'
+export MANAGER_IP='pat:2002'
+export MANAGER_USER='sdwan'
+export MANAGER_PASSWORD='sdwanlab@123'
+export LAB_NAME='CSD-WAN-LAB-01'
