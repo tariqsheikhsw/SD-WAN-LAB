@@ -6,8 +6,11 @@ SD-WAN LAB
 Here's the summary of activities performed during this lab :
 
 🔘 CML Setup   
-🔘 WSL - Ubuntu 
-🔘 Backup  
+🔘 WSL - Ubuntu   
+🔘 Backup    
+🔘 Automation   
+
+
 
 # Scenario / Architecture
 
