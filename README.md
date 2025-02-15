@@ -17,6 +17,8 @@ Here's the summary of activities performed during this lab :
 
 # BRANCHES SETUP 
 
+![image](https://github.com/user-attachments/assets/92a6abe0-928e-4177-8e77-ae251d1c7617)
+
 
 
 # WSL - (Ubuntu) Initial Setup 
