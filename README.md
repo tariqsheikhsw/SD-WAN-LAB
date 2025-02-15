@@ -23,6 +23,9 @@ Here's the summary of activities performed during this lab :
 
 ![image](https://github.com/user-attachments/assets/92a6abe0-928e-4177-8e77-ae251d1c7617)
 
+# ALPINE (END HOSTS) ADDED 
+
+![image](https://github.com/user-attachments/assets/24e87c96-a3a6-4896-adfb-f7868d422fe7)
 
 
 # WSL - (Ubuntu) Initial Setup 
