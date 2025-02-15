@@ -132,9 +132,50 @@ csdwan delete --lab "CSD-WAN-LAB-01"
 
 
 ### Alpine (End User Host):
+Check IP address (assinged via DHCP)
 ```
 ip addr show
 ```
+
+Change hostname
+```
+sudo -E -s
+
+hostname alpine-1
+```
+
+Traceroute from Host1 to Host2
+```
+traceroute -I -n 192.168.2.100
+(from 192.168.1.100)
+```
+
+
+Disconnect mpls link, and observer traffic routing through internet link   
+Test both failover and fallback scenario
+
+```
+while [ 1 == 1 ]; do
+traceroute -I -n 192.168.1.100
+sleep 1
+done
+
+```
+
+
+### cEdge Device (Cisco) : Edge1 / Edge2
+
+Default Login for Edge Devices
+```
+admin/admin
+```
+
+Look for Gig3 (DHCP settings)
+```
+show ip interface brief
+```
+
+
 
 
 # FINAL STATUS:
