@@ -14,46 +14,64 @@ Here's the summary of activities performed during this lab :
 
 # WSL - (Ubuntu) Initial Setup 
 
-BASH
+Check Environment
 ```
 % python3 -c "import sys;assert sys.version_info>(3,9)" && echo "ALL GOOD"
 ```
 
-BASH
+Create Working Directory
 ```
 mkdir csdwan
 cd csdwan
 ```
 
-BASH
+Setup Virtual Environment and Activate 
 ```
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-BASH
+Update Package and Upgrade Setup Files etc.
 ```
+sudo apt-get update -y 
 pip install --upgrade pip setuptools
 pip install --upgrade catalyst-sdwan-lab
 ```
 
-BASH
+Verify
+```
+pip freeze | grep catalyst
+```
+
+
+Check lab version
 ```
 sdwan-lab --version
 ```
 
 
-BASH
+Check csdwan version
 ```
 csdwan --version
 ```
 
 Commands
-BASH
+Add any new SDWAN images (in qcow) format 
 ```
-source <(kubectl completion bash) # setup autocomplete in bash into the current shell, bash-completion package should be installed first.
-echo "source <(kubectl completion bash)" >> ~/.bashrc # add autocomplete permanently to your bash shell.
+ls | grep qcow
 ```
+
+
+
+```
+csdwan setup
+```
+
+
+```
+csdwan deploy 20.15.1
+```
+//Parameters : /24 , 192.168.255.1 (NAT) environment
 
 
 # WSL - (Ubuntu) Recurring Commands 
