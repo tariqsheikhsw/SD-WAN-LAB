@@ -11,6 +11,13 @@ Here's the summary of activities performed during this lab :
 # Scenario / Architecture
 
 
+# HQ SITE SETUP 
+
+![image](https://github.com/user-attachments/assets/1950c64f-003a-4856-bd7e-f12cffed9573)
+
+# BRANCHES SETUP 
+
+
 
 # WSL - (Ubuntu) Initial Setup 
 
