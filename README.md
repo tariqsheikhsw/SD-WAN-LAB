@@ -7,6 +7,7 @@ Here's the summary of activities performed during this lab :
 
 🔘 CML Setup   
 🔘 WSL - Ubuntu 
+🔘 Backup  
 
 # Scenario / Architecture
 
@@ -114,9 +115,28 @@ CONFIGURATION FILES:
 csdwan add 2 edge 17.15.01a --lab "CSD-WAN-LAB-01"
 ```
 
+
+# Backup : 
+
+```
+csdwan backup
+```
+
+# Delete Lab : 
+```
+csdwan delete --lab "CSD-WAN-LAB-01"
+```
+
+
+### Alpine (End User Host):
+```
+ip addr show
+```
+
+
 # FINAL STATUS:
 
-    [✔️] Add Manager, Validator , Configurator
+    [✔️] Add Manager, Validator , Controller
     [✔️] Add cEdges (c8000v)
     [✔️] Add Alpine (End Hosts)
     [✔️] Validate Traffic from Branch1 to Branch2 via MPLS Link
