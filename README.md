@@ -11,6 +11,43 @@ Here's the summary of activities performed during this lab :
 # Scenario / Architecture
 
 
+
+# WSL - (Ubuntu) Initial Setup 
+
+BASH
+```
+% python3 -c "import sys;assert sys.version_info>(3,9)" && echo "ALL GOOD"
+```
+
+BASH
+```
+mkdir csdwan
+cd csdwan
+```
+
+BASH
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+BASH
+```
+pip install --upgrade pip setuptools
+pip install --upgrade catalyst-sdwan-lab
+```
+
+BASH
+```
+sdwan-lab --version
+```
+
+
+BASH
+```
+csdwan --version
+```
+
 Commands
 BASH
 ```
