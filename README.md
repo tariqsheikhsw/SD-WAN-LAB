@@ -104,9 +104,16 @@ source venv/bin/activate
 csdwan setup
 csdwan deploy 20.15.1
 ```
-//parameters : /24 and 192.168.255.1 (for NAT)
+Parameters : /24 and 192.168.255.1 (as Gateway ) for NATted Mode  
+Parameters : /24 and 192.168.1.1 (as Gateway) for Bridge Mode  
 
+Add one Edge device at a time (if CPU/Memory constrants)  
 
+```
+csdwan add 1 edge 17.15.01a --lab "CSD-WAN-LAB-01"
+```
+
+Adding More Devices
 ```
 csdwan add 2 edge 17.15.01a --lab "CSD-WAN-LAB-01"
 ```
