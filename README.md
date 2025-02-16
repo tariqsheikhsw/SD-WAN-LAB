@@ -189,7 +189,8 @@ show ip interface brief
 🔘 VPNs and Labels  
 🔘 Localized Policy and Centralized Policy    
 🔘 TLOC Extensions  
-🔘 UseCases   
+🔘 SD-WAN UseCases     
+🔘 AAR (Application Aware Routing etc.)  
 🔘 Many More...
 
 
