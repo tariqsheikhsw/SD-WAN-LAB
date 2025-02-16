@@ -178,6 +178,20 @@ Look for Gig3 (DHCP settings)
 show ip interface brief
 ```
 
+# Labs Included :
+
+🔘 Setup Configuration Groups    
+🔘 TLOC / OMP Routes   
+🔘 Color Restrict   
+🔘 Public and Private TLOC Colors  
+🔘 BFD  
+🔘 Underlay vs Overlay Routing  
+🔘 VPNs and Labels  
+🔘 Localized Policy and Centralized Policy    
+🔘 TLOC Extensions  
+🔘 UseCases   
+🔘 Many More...
+
 
 
 
