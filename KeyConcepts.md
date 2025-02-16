@@ -1,5 +1,7 @@
 ### Key Concepts 
 
+# Q1 - Feature Template vs Device Template
+
 - Feature Templates
 i.e. System , Banner, VPN , VPN Interface Ethernet , OSPF
 
@@ -22,5 +24,31 @@ i.e. System , Banner, VPN , VPN Interface Ethernet , OSPF
 i.e. add all feature templates
 
 🔘 C8K-DT
+
+# Q2 - VPN0 vs VPN512 vs VPN1 etc.
+
+🔘 VPN0 = Transport VPN 
+🔘 VPN512 = Management VPN 
+🔘 VPN1 = Data VPN / Service VPN (HQ)
+
+
+# Q3 - OMP Routes (using Service VPN)
+- Overlay  
+
+# Q4 - Devices
+🔘 vEdge
+🔘 cEdge 
+🔘 CSR1000v
+
+# Q5- Export/Import/Backup Configuration 
+
+request nms configuration-db backup path /opt/data/backup/Config-Backup-01
+
+# Q6 - Application Aware Routing (AAR) 
+
+
+
+
+
 
 
