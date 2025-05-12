@@ -1,10 +1,8 @@
-### Key Concepts 
+### Questions and Answers
 
-# Q1 - Feature Template vs Device Template
+# Q1 - Features
 
-- Feature Templates
-i.e. System , Banner, VPN , VPN Interface Ethernet , OSPF
+- Features
 
-🔘 C8K-SYSTEM-FT   
-🔘 C8K-BANNER-FT   
-🔘 C8K-VPN-VPN0-FT    
+🔘 XYZ   
+
