@@ -6,6 +6,10 @@
 
 🔘 Use-Case 1 :  Isolating Remote Branches from Each Other  
 
+- Approach1 : Traditional Control Policies - (Feature Templates/Device Templates Approach)   
+- Approach2 : Newer Topology Polciies - Topology Workflow Approach (Configuration Groups workflow)    
+
+
 🔘 Use-Case 2 :  Enabling Branch-to-Branch Communication Through Data Centers  
 
 🔘 Use-Case 3 :  Traffic Engineering at Sites with Multiple Routers  
