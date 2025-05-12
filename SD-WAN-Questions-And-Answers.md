@@ -18,6 +18,8 @@
 * Through Route Summarization  
 * Through TLOC Lists  
 
+
+--- Summary Routes : Advertise Summary Prefixes from Data Center (DC) 
 --- TLOC Lists : Routes advertised through branches should have DC-TLOC as tloc-list  
 
 🔘 Use-Case 3 :  Traffic Engineering at Sites with Multiple Routers  
