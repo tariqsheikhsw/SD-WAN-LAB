@@ -32,9 +32,20 @@
 
 🔘 Use-Case 7 :  Isolating Guest Users from the Corporate WAN  
 
+* VPN Membership policies  
+
+
 🔘 Use-Case 8 :  Creating Different Network Topologies per Segment  
 
+* MultiTopology Policy
+
+VPN-X : Hub n Spoke Topology  
+VPX-Y : Branch to Branch Through DC Topology   
+
 🔘 Use-Case 9 :  Creating Extranets and Access to Shared Services  
+
+* VRF Leaking
+
 
 
 # Centralized Data Policies :
