@@ -79,3 +79,6 @@
 
 ### AFTER APPLYING CENTRALIZED POLICY : Modified TLOC LIST 
 
+<img width="1743" height="738" alt="image" src="https://github.com/user-attachments/assets/2ac64c7e-ba9f-45e7-b823-0cc42b5a7aa1" />
+
+<img width="1731" height="817" alt="image" src="https://github.com/user-attachments/assets/37d6dd0f-5cc3-4d31-a8cf-cc4e093d913b" />
