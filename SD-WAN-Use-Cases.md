@@ -1,5 +1,3 @@
-### Questions and Answers
-
 ### SD-WAN Use Cases 
 
 # Centralized Control Policies :
