@@ -29,7 +29,7 @@
 
 <img width="812" height="253" alt="image" src="https://github.com/user-attachments/assets/6dea630a-74a1-48c9-a7e1-4d6619e9f3d5" />
 
-### AFTER APPLYING CENTRALIZED POLICY : Traffic Routed Through DC 
+
 
 ```
 86	  policy
@@ -69,3 +69,10 @@
 120	   !
 121	  !
 ```
+### AFTER APPLYING CENTRALIZED POLICY : Traffic Routed Through DC 
+
+<img width="563" height="126" alt="image" src="https://github.com/user-attachments/assets/1a48e015-69b4-4e32-9761-f953469e8ff0" />
+
+
+<img width="681" height="153" alt="image" src="https://github.com/user-attachments/assets/39bef050-eebc-47b0-bd4f-e3c786f6fccb" />
+
