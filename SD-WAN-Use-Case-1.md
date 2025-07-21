@@ -21,3 +21,51 @@
 <img width="772" height="387" alt="image" src="https://github.com/user-attachments/assets/6c894fb5-0cd2-405d-900a-b44b5b87c2b8" />
 <img width="1673" height="566" alt="image" src="https://github.com/user-attachments/assets/a7bed01e-22cf-4a0b-9a55-fafbaa9ef212" />
 
+
+
+### BEFORE APPLYING CENTRALIZED POLICY : Direct Tunnel
+
+<img width="962" height="257" alt="image" src="https://github.com/user-attachments/assets/e8c4f67d-970e-4605-ba36-182e1df059f1" />
+
+<img width="812" height="253" alt="image" src="https://github.com/user-attachments/assets/6dea630a-74a1-48c9-a7e1-4d6619e9f3d5" />
+
+### AFTER APPLYING CENTRALIZED POLICY : Traffic Routed Through DC 
+
+
+
+86	  policy
+87	   lists
+88	    site-list Hub-Site
+89	     site-id 100
+90	    !
+91	    site-list Spokes-Site
+92	     site-id 1001-1003
+93	    !
+94	    prefix-list _AnyIpv4PrefixList
+95	     ip-prefix 0.0.0.0/0 le 32
+96	    !
+97	   !
+98	   control-policy Hub_n_Spoke_Policy
+99	    sequence 1
+100	     match tloc
+101	      site-list Hub-Site
+102	     !
+103	     action accept
+104	     !
+105	    !
+106	    sequence 11
+107	     match route
+108	      prefix-list _AnyIpv4PrefixList
+109	      site-list   Hub-Site
+110	     !
+111	     action accept
+112	     !
+113	    !
+114	    default-action reject
+115	   !
+116	  !
+117	  apply-policy
+118	   site-list Spokes-Site
+119	    control-policy Hub_n_Spoke_Policy out
+120	   !
+121	  !
