@@ -31,8 +31,7 @@
 
 ### AFTER APPLYING CENTRALIZED POLICY : Traffic Routed Through DC 
 
-
-'''
+```
 86	  policy
 87	   lists
 88	    site-list Hub-Site
@@ -69,4 +68,4 @@
 119	    control-policy Hub_n_Spoke_Policy out
 120	   !
 121	  !
-'''
+```
