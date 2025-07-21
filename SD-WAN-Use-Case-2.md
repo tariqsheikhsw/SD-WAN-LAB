@@ -82,3 +82,25 @@
 <img width="1743" height="738" alt="image" src="https://github.com/user-attachments/assets/2ac64c7e-ba9f-45e7-b823-0cc42b5a7aa1" />
 
 <img width="1731" height="817" alt="image" src="https://github.com/user-attachments/assets/37d6dd0f-5cc3-4d31-a8cf-cc4e093d913b" />
+
+
+
+### STEPS : CUSTOM CONTROL POLICY with TRADITIONAL Workflow 
+
+1) Define TLOC List  
+2) Create Centralized Policy 
+- Custom Control (Route & TLOC)
+  Control Policy (Route / TLOC)
+
+Centralized_Policy_v2
+ -> Topology : Hub_n_Spoke_Policy_TLOC_Lists
+
+<img width="1632" height="647" alt="image" src="https://github.com/user-attachments/assets/9d291990-c4b7-4841-87b1-6ded9bf9096d" />
+
+<img width="1807" height="572" alt="image" src="https://github.com/user-attachments/assets/9be82ee9-d727-4a08-a767-4bcd10248ab2" />
+
+<img width="1465" height="432" alt="image" src="https://github.com/user-attachments/assets/2f4a509b-c1a4-4626-9e8e-11f39d74923c" />
+
+<img width="1681" height="757" alt="image" src="https://github.com/user-attachments/assets/c7226df4-c8d6-4175-8713-4688d1f5e88c" />
+
+
