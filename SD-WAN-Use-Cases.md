@@ -2,7 +2,7 @@
 
 # Centralized Control Policies :
 
-🔘 Use-Case 1 :  Isolating Remote Branches from Each Other  
+### 🔘 Use-Case 1 :  Isolating Remote Branches from Each Other  
 
 * Restrict TLOC advertisements from Branch Sites  
 * Only DC TLOCs to be advertised to Branch Sites   
@@ -11,7 +11,7 @@
 --- Approach2 : Newer Topology Polciies - Topology Workflow Approach (Configuration Groups workflow)    
 
 
-🔘 Use-Case 2 :  Enabling Branch-to-Branch Communication Through Data Centers  
+### 🔘 Use-Case 2 :  Enabling Branch-to-Branch Communication Through Data Centers  
 
 * Through Route Summarization  
 * Through TLOC Lists  
