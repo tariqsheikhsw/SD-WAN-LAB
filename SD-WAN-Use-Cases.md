@@ -1,6 +1,10 @@
 ### SD-WAN Use Cases 
 
+### Cisco SD-WAN Policy Tree  
+
 <img width="1262" height="897" alt="image" src="https://github.com/user-attachments/assets/461ff64b-e1a8-4d90-b036-9217f4c5461f" />
+
+### Cisco SD-WAN Order of Operations (vedge/cedge)  
 
 <img width="1061" height="537" alt="image" src="https://github.com/user-attachments/assets/b89cee37-1e1f-4aa1-9aa3-7a375879b9b6" />
 
