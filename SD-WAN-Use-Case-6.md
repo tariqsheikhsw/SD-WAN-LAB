@@ -95,3 +95,16 @@ Using Cisco ASA firewall ...
 ```
 
 <img width="953" height="526" alt="image" src="https://github.com/user-attachments/assets/7136b007-1c81-4353-9089-1f6b9deb25b8" />
+
+
+### VERFICATON 
+
+BEFORE AND AFTER on BR1 and BR2 Devices
+
+#ping vrf 1 10.10.22.1   
+#traceroute vrf 1 10.10.22.1   
+
+
+#ping vrf 1 10.10.21.1   
+#traceroute vrf 1 10.10.21.1  
+  
