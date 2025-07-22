@@ -36,7 +36,13 @@
 
 🔘 Use-Case 5 :  Regional Mesh Networks  
 
-### 🔘 Use-Case 6 :  Enforcing Security Perimeters with Service Insertion  
+### 🔘 Use-Case 6 :  Enforcing Security Perimeters with Service Insertion 
+
+* Through Service FW advertisement   
+
+--- Service FW : Advertised from DC cEdge to vSmart and other sites   
+  Branch1 traffic will traverse to Branch2 through DC Firewall for inspection...
+ 
 
 🔘 Use-Case 7 :  Isolating Guest Users from the Corporate WAN  
 
