@@ -36,7 +36,7 @@
 
 🔘 Use-Case 5 :  Regional Mesh Networks  
 
-🔘 Use-Case 6 :  Enforcing Security Perimeters with Service Insertion  
+### 🔘 Use-Case 6 :  Enforcing Security Perimeters with Service Insertion  
 
 🔘 Use-Case 7 :  Isolating Guest Users from the Corporate WAN  
 
