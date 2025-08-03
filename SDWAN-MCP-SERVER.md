@@ -11,13 +11,13 @@ Using Claude Desktop or Cursor IDE, you can query your network like :
 🔘 What SD-WAN devices need immediate attention  
 🔘 Analyze sdwan network topology  
 
-Further Details :
+- Further Details :
 
 🔗 https://www.linkedin.com/posts/tariq-a-sheikh_sdwan-ai-mcp-activity-7357635555133681664-dV2B
 
 🔗 https://www.linkedin.com/posts/tariq-a-sheikh_sdwan-ai-mcp-activity-7357639079607382016-UVFV
 
-SD-WAN Network Topology Analysis :
+- SD-WAN Network Topology Analysis :
 
 https://claude.ai/public/artifacts/4d88f8e2-d161-4e47-a540-e4ef3ca09351
 
