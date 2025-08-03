@@ -13,9 +13,9 @@ Using Claude Desktop or Cursor IDE, you can query your network like :
 
 Further Details :
 
-🔗 https://www.linkedin.com/posts/tariq-a-sheikh_sdwan-ai-mcp-activity-7357635555133681664-dV2B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2V3BgBONPiwHFg7dK8NsszKXHQQEOoT-Q
+🔗 https://www.linkedin.com/posts/tariq-a-sheikh_sdwan-ai-mcp-activity-7357635555133681664-dV2B
 
-🔗 https://www.linkedin.com/posts/tariq-a-sheikh_sdwan-ai-mcp-activity-7357639079607382016-UVFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2V3BgBONPiwHFg7dK8NsszKXHQQEOoT-Q
+🔗 https://www.linkedin.com/posts/tariq-a-sheikh_sdwan-ai-mcp-activity-7357639079607382016-UVFV
 
 
 
