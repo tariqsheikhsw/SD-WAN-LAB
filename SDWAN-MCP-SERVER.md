@@ -9,6 +9,7 @@ Using Claude Desktop or Cursor IKE, you can query your network like :
 🔘 Check BFD state for SD-WAN device Site3 Edge1   
 🔘 Generate a full SD-WAN network report  
 🔘 What SD-WAN devices need immediate attention  
+🔘 Analyze sdwan network topology  
 
 
 
@@ -17,7 +18,6 @@ Using Claude Desktop or Cursor IKE, you can query your network like :
 
 
 
-Analyze sdwan network topology
 
   
 
