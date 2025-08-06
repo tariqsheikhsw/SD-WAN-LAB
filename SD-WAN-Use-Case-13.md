@@ -32,6 +32,20 @@ Deployments -> Core Identities -> Network Tunnels
 
 # Centralized Data Policy Configuration 
 - Traffic Data
+- i.e. Facebook/M365 traffic goes through Umbrella SIG , while GuestUsers Traffic goes to internet directly via NAT (Direct Internet Access-DIA) 
 
-<img width="1875" height="718" alt="image" src="https://github.com/user-attachments/assets/04db64ab-dae3-42c5-b4d9-dfe9ee61878b" />
+<img width="1906" height="718" alt="image" src="https://github.com/user-attachments/assets/bb339b25-5901-4bbe-ab1c-c09c22c04866" />
+
+- Full Policy 
+
+<img width="1904" height="753" alt="image" src="https://github.com/user-attachments/assets/412185dd-d430-4a91-8cbd-fa44c04bd308" />
+
+- Cisco Umbrella Web Policy (applied to tunnels to restrict access)
+
+<img width="1777" height="989" alt="image" src="https://github.com/user-attachments/assets/c1dd1f05-c30e-4ec2-be62-22d806a24b8a" />
+
+- Reporting -> Core Reports -> Activity Search
+
+<img width="1863" height="495" alt="image" src="https://github.com/user-attachments/assets/2523a0b3-27df-4246-b936-ac40896fe136" />
+
 
