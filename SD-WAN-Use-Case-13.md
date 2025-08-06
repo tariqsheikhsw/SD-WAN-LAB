@@ -9,7 +9,10 @@ Building on previous Use-Case :
 ### Use-Case 10 : Direct Internet Access for Guest Users
 
 - Service Route steers all traffic to SIG
-- Use Centralized Data Policies to steer certain Application Traffic to SIG 
+- Use Centralized Data Policies to steer certain Application Traffic to SIG
+
+
+<img width="758" height="371" alt="image" src="https://github.com/user-attachments/assets/d701e1f2-9d86-48b8-9299-66fb3618e722" />
 
 <img width="1746" height="616" alt="image" src="https://github.com/user-attachments/assets/df0b2cfc-ac2d-48c1-8c30-6149f121801b" />
 
