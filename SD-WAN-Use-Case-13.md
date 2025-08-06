@@ -3,6 +3,7 @@
 
 ### Centralized Data Policies :
 
-🔘 Use-Case 10 : Direct Internet Access for Guest Users
+### 🔘 Use-Case 13 : Protecting Corporate Users with a Cloud-Delivered Firewall / Secure Internet Gateway
 
-🔘 Use-Case 13 : Protecting Corporate Users with a Cloud-Delivered Firewall / Secure Internet Gateway
+Building on previous Use-Case :
+### Use-Case 10 : Direct Internet Access for Guest Users
