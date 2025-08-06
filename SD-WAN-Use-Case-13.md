@@ -13,6 +13,11 @@ Building on previous Use-Case :
 
 <img width="593" height="347" alt="image" src="https://github.com/user-attachments/assets/4c26fbae-42a5-46fd-a0a4-0e803c3e0716" />
 
+
+<img width="1746" height="616" alt="image" src="https://github.com/user-attachments/assets/df0b2cfc-ac2d-48c1-8c30-6149f121801b" />
+
+
+
 # Configure SIG Feature Tempalte and Attach it to the Device Template 
 
 <img width="726" height="264" alt="image" src="https://github.com/user-attachments/assets/d1b45aa5-4b01-4a1d-ae05-4e9b7ed16ebc" />
