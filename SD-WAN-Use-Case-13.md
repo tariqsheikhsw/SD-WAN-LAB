@@ -46,6 +46,7 @@ Deployments -> Core Identities -> Network Tunnels
 
 - Reporting -> Core Reports -> Activity Search
 
-<img width="1863" height="495" alt="image" src="https://github.com/user-attachments/assets/2523a0b3-27df-4246-b936-ac40896fe136" />
+<img width="1843" height="289" alt="image" src="https://github.com/user-attachments/assets/e08347b4-78b1-4e07-aa59-c5b6c803cbbe" />
+
 
 
