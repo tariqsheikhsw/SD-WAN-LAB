@@ -11,11 +11,9 @@ Building on previous Use-Case :
 - Service Route steers all traffic to SIG
 - Use Centralized Data Policies to steer certain Application Traffic to SIG 
 
-<img width="593" height="347" alt="image" src="https://github.com/user-attachments/assets/4c26fbae-42a5-46fd-a0a4-0e803c3e0716" />
-
-
 <img width="1746" height="616" alt="image" src="https://github.com/user-attachments/assets/df0b2cfc-ac2d-48c1-8c30-6149f121801b" />
 
+<img width="593" height="347" alt="image" src="https://github.com/user-attachments/assets/4c26fbae-42a5-46fd-a0a4-0e803c3e0716" />
 
 
 # Configure SIG Feature Tempalte and Attach it to the Device Template 
