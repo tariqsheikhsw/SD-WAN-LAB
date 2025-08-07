@@ -70,6 +70,6 @@ VPX-Y : Branch to Branch Through DC Topology
 
 🔘 Use-Case 12 :  Application-Based Traffic Engineering  
 
-🔘 Use-Case 13 :  Protecting Corporate Users with a Cloud-Delivered Firewall / Secure Internet Gateway  
+### 🔘 Use-Case 13 :  Protecting Corporate Users with a Cloud-Delivered Firewall / Secure Internet Gateway  
 
 
