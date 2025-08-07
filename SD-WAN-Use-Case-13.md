@@ -23,7 +23,7 @@ Building on previous Use-Case :
 
 <img width="726" height="264" alt="image" src="https://github.com/user-attachments/assets/d1b45aa5-4b01-4a1d-ae05-4e9b7ed16ebc" />
 
-# Configure SIG Credentials and Attached it to the Device Tempalte 
+# Configure SIG Credentials and Attached it to the Device Template 
 
 <img width="693" height="70" alt="image" src="https://github.com/user-attachments/assets/5461db54-1609-44f2-a082-32956db286be" />
 
@@ -38,7 +38,7 @@ Deployments -> Core Identities -> Network Tunnels
 
 # Centralized Data Policy Configuration 
 - Traffic Data
-- i.e. Facebook/M365 traffic goes through Umbrella SIG , while GuestUsers Traffic goes to internet directly via NAT (Direct Internet Access-DIA) 
+- Facebook/M365 traffic goes through Umbrella SIG , while GuestUsers Traffic goes to internet directly via NAT (Direct Internet Access-DIA) 
 
 <img width="1906" height="718" alt="image" src="https://github.com/user-attachments/assets/bb339b25-5901-4bbe-ab1c-c09c22c04866" />
 
